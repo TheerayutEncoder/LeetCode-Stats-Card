@@ -6,9 +6,9 @@ Show your dynamically generated LeetCode stats on your GitHub profile or your we
 
 LeetCode and LeetCode CN are both supported.
 
-[Playground: Try It Now](https://leetcard.jacoblin.cool/)
+[Playground: Try It Now](https://leetcard.theerayut_attajak/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/theerayut_attajak?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/theerayut_attajak?theme=unicorn&extension=activity)
 
 ## Features
 
@@ -58,10 +58,10 @@ There are many options, you can configure them by passing a query string to the 
 Data source, can be `us` or `cn`.
 
 ```md
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+![](https://leetcard.jacoblin.cool/theerayut_attajak?site=cn)
 ```
 
-[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcard.jacoblin.cool/leetcode?site=cn)
+[![](https://leetcard.jacoblin.cool/theerayut_attajak?site=us)](https://leetcard.jacoblin.cool/theerayut_attajak?site=us)
 
 #### `theme` (default: `light,dark`)
 
@@ -74,7 +74,7 @@ Use a comma to separate the light and dark theme.
 ![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
 ```
 
-[![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)](https://leetcode.com/jacoblincool)
+[![](https://leetcard.jacoblin.cool/theerayut_attajak?theme=unicorn)](https://leetcode.com/theerayut_attajak)
 
 #### `font` (default: `Baloo_2`)
 
@@ -86,7 +86,7 @@ It is case-insensitive, and you can use `font=dancing_script` or `font=Dancing%2
 ![](https://leetcard.jacoblin.cool/jacoblincool?font=Dancing_Script)
 ```
 
-[![](https://leetcard.jacoblin.cool/jacoblincool?font=Dancing_Script)](https://leetcard.jacoblin.cool/jacoblincool?font=Dancing_Script)
+[![](https://leetcard.jacoblin.cool/theerayut_attajak?font=Dancing_Script)](https://leetcard.jacoblin.cool/theerayut_attajak?font=Dancing_Script)
 
 #### `width` and `height` (default: `500` and `200`)
 
@@ -98,7 +98,7 @@ But it will be helpful if you want to use custom css.
 ![](https://leetcard.jacoblin.cool/jacoblincool?width=500&height=500)
 ```
 
-[![](https://leetcard.jacoblin.cool/jacoblincool?width=500&height=500)](https://leetcard.jacoblin.cool/jacoblincool?width=500&height=500)
+[![](https://leetcard.jacoblin.cool/theerayut_attajak?width=500&height=500)](https://leetcard.jacoblin.cool/theerayut_attajak?width=500&height=500)
 
 #### `border` and `radius` (default: `1` and `4`)
 
@@ -108,7 +108,7 @@ Change the card border and radius.
 ![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
 ```
 
-[![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
+[![](https://leetcard.jacoblin.cool/theerayut_attajak?border=0&radius=20)](https://leetcard.jacoblin.cool/theerayut_attajak?border=0&radius=20)
 
 #### `animation` (default: `true`)
 
